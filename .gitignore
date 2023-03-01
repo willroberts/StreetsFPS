@@ -1,0 +1,25 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Ignore third-party Content
+Content/Characters
+Content/FirstPerson
+Content/FirstPersonArms
+Content/FPWeapon
+Content/LevelPrototyping
+Content/LPGenericPropsSet06
+Content/MS_DamageEss
+Content/StarterContent
+Content/ThirdPerson
