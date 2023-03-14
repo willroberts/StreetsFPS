@@ -26,3 +26,6 @@ Content/ThirdPerson
 
 # Ignore screenshots
 Content/StreetsFPS/Levels/ReferenceScreenshots
+
+# Ignore temporary/generated Content
+Content/StreetsFPS/Levels/_GENERATED
